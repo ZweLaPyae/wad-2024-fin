@@ -1,4 +1,3 @@
-import { MoneyOffCsredRounded } from "@mui/icons-material";
 import mongoose from "mongoose";
 
 const categorySchema = new mongoose.Schema({
